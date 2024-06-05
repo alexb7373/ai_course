@@ -3,7 +3,8 @@
 
 ## Results
 results are depicted in the JSON file, and in .md
+
 Worth noting:
-'aya' is a surprisingly mature model - producing good results
-'gpt-4o' is 'the king' anyway IMHO
-'mistral' created the story for children in English, instead of Czech
+* 'aya' is a surprisingly mature model - producing good results
+* 'gpt-4o' is 'the king' anyway IMHO
+* 'mistral' created the story for children in English, instead of Czech
