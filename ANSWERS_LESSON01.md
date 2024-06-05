@@ -1,7 +1,10 @@
+# Model: aya
 ## Task ID: 0
-**Model:** aya
-**LLM String:** [1mOllama[0m
+**LLM String:**
+```
+[1mOllama[0m
 Params: {'model': 'aya', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
+```
 
 **Response:**
 Zavedení univerzálního základního příjmu (UBI) může mít na ekonomickou disparitu významný dopad, zejména pokud je správně implementován a doprovázen dalšími politikami. Zde je několik způsobů, jak by UBI mohl ovlivnit ekonomickou nerovnost v regionech s vysokými a nízkými příjmy:
@@ -20,10 +23,13 @@ Zavedení univerzálního základního příjmu (UBI) může mít na ekonomickou
 
 ---
 
+# Model: aya
 ## Task ID: 1
-**Model:** aya
-**LLM String:** [1mOllama[0m
+**LLM String:**
+```
+[1mOllama[0m
 Params: {'model': 'aya', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
+```
 
 **Response:**
 Jistě! Syntéza nových sloučenin pro absorpci zvýšeného množství sluneční energie je fascinující oblast výzkumu v oblasti umělé inteligence a materiálové vědy. Jednou z metod, kterou lze použít k dosažení tohoto cíle, je využití počítačového modelování a strojového učení.
@@ -44,10 +50,13 @@ Kombinací počítačového modelování, strojového učení a experimentální
 
 ---
 
+# Model: aya
 ## Task ID: 2
-**Model:** aya
-**LLM String:** [1mOllama[0m
+**LLM String:**
+```
+[1mOllama[0m
 Params: {'model': 'aya', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
+```
 
 **Response:**
 Bylo nebylo, v srdci Prahy se nacházela tajná škola pro želví nindže. Byla to zvláštní škola, kde se studenti učili starobylému umění boje a využívali svou lásku k želvám k ochraně města před zlem.
@@ -70,10 +79,13 @@ Od té chvíle bratři pravidelně chránili město před různými hrozbami jak
 
 ---
 
+# Model: mistral
 ## Task ID: 0
-**Model:** mistral
-**LLM String:** [1mOllama[0m
+**LLM String:**
+```
+[1mOllama[0m
 Params: {'model': 'mistral', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
+```
 
 **Response:**
  Může se předpokládat, že zavedení univerzálního základního příjmu by mohlo ovlivnit ekonomickou disparitu v regionech s různými úrovněmi příjmů. Je třeba však podotknout, že toto očekávání je předpokládané a skutečné důsledky mohou být různé.
@@ -86,10 +98,13 @@ Ve skutečnosti ale lze očekávat, že univerzální základní příjem bude n
 
 ---
 
+# Model: mistral
 ## Task ID: 1
-**Model:** mistral
-**LLM String:** [1mOllama[0m
+**LLM String:**
+```
+[1mOllama[0m
 Params: {'model': 'mistral', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
+```
 
 **Response:**
  To požadavek je z velké části v oblasti praktického výzkumu a je složitější než co bychom mohli tuhle konverzaci rozvinout pouze na základě textu. Je ale možné přehledně vysvětlit některé metody, které jsou součástí praktického výzkumu v oblasti syntézy nových sloučenin pro fotovoltaiku:
@@ -103,10 +118,13 @@ Tyto metody jsou pouze některé z mnoha možných přístupů k syntéze novýc
 
 ---
 
+# Model: mistral
 ## Task ID: 2
-**Model:** mistral
-**LLM String:** [1mOllama[0m
+**LLM String:**
+```
+[1mOllama[0m
 Params: {'model': 'mistral', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
+```
 
 **Response:**
  Title: The Adventure of the Turtle Ninjas in Prague
@@ -135,10 +153,13 @@ The end.
 
 ---
 
+# Model: llama3
 ## Task ID: 0
-**Model:** llama3
-**LLM String:** [1mOllama[0m
+**LLM String:**
+```
+[1mOllama[0m
 Params: {'model': 'llama3', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
+```
 
 **Response:**
 As an IT student learning about AI, I'll try to provide an answer from the perspective of artificial intelligence.
@@ -160,10 +181,13 @@ Overall, while UBI has its potential benefits in reducing regional economic disp
 
 ---
 
+# Model: llama3
 ## Task ID: 1
-**Model:** llama3
-**LLM String:** [1mOllama[0m
+**LLM String:**
+```
+[1mOllama[0m
 Params: {'model': 'llama3', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
+```
 
 **Response:**
 What an exciting question!
@@ -194,10 +218,13 @@ By combining AI-driven computational power with experimental validation and opti
 
 ---
 
+# Model: llama3
 ## Task ID: 2
-**Model:** llama3
-**LLM String:** [1mOllama[0m
+**LLM String:**
+```
+[1mOllama[0m
 Params: {'model': 'llama3', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
+```
 
 **Response:**
 What an exciting task! Here's a 15-minute read story for your two little nephews (3 and 5 years old) with ninja turtles in Prague:
@@ -230,10 +257,13 @@ I hope your little nephews enjoy this adventure!
 
 ---
 
+# Model: phi3
 ## Task ID: 0
-**Model:** phi3
-**LLM String:** [1mOllama[0m
+**LLM String:**
+```
+[1mOllama[0m
 Params: {'model': 'phi3', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
+```
 
 **Response:**
  Ako by mohl universální základní příjm (UT) ovlivnit ekonomický disparit v regionalních členích s výškem a nichým příjemem, mohu to dokázat ve multiplexovém studiu a analýze. V současné době je potřeba najít statistické dáty o výsledném příjmů na UT a ich vhodou do regionalních trhuch, přeložených z měkkých a malých regionů.
@@ -259,10 +289,13 @@ Příkladová součástí analýzy a studie:
 
 ---
 
+# Model: phi3
 ## Task ID: 1
-**Model:** phi3
-**LLM String:** [1mOllama[0m
+**LLM String:**
+```
+[1mOllama[0m
 Params: {'model': 'phi3', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
+```
 
 **Response:**
  Ja, možná. Vytvoření nových sloučenin novém hromadním systému syntézu s činnostem ako fotovoltačka může přesvědčit na to, že mohu absorbovat více sluneční energie než současné fotovoltaické materiály. Tato nová technologie obvykle obsahuje nějakou hromadní fotografickou zkušenost nebo nové materiální s prodejním výhodou, které mohou být splnomenným a měřitelným součiním sluneční energie. To by měla způsobit úspěchem pro absorbace sluneční energie na důležitou oblasu a zažívání energie na společných službách, jako například energičních zarišliček nebo zarišeckých systém.
@@ -271,10 +304,13 @@ Nyní je vhodné být s nás k uživacímu prozkoumat se obcházky nových slou�
 
 ---
 
+# Model: phi3
 ## Task ID: 2
-**Model:** phi3
-**LLM String:** [1mOllama[0m
+**LLM String:**
+```
+[1mOllama[0m
 Params: {'model': 'phi3', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
+```
 
 **Response:**
  Once upon a time, in the magical city of Prague, there were two curious boys named Jan and Tomáš who dreamed of finding a mythical treasure hidden deep within the heart of the enchanted forest surrounding their beloved city. Their passion for adventure was as strong as their love for ice cream - especially their favorite flavor, ninjinn (a playful twist on "ninja" and "vanilla").
@@ -297,9 +333,12 @@ The end. (Approximately 350 words)
 
 ---
 
+# Model: gpt-4o
 ## Task ID: 0
-**Model:** gpt-4o
-**LLM String:** client=<openai.resources.chat.completions.Completions object at 0x7f24d7b42e50> async_client=<openai.resources.chat.completions.AsyncCompletions object at 0x7f24d766df50> model_name='gpt-4o' temperature=0.0 openai_api_key=SecretStr('**********') openai_proxy=''
+**LLM String:**
+```
+client=<openai.resources.chat.completions.Completions object at 0x7f24d7b42e50> async_client=<openai.resources.chat.completions.AsyncCompletions object at 0x7f24d766df50> model_name='gpt-4o' temperature=0.0 openai_api_key=SecretStr('**********') openai_proxy=''
+```
 
 **Response:**
 Zavedení univerzálního základního příjmu (UZP) by mohlo mít různé dopady na ekonomickou disparitu mezi regiony s vysokými a nízkými příjmy. Zde je několik možných scénářů a efektů:
@@ -330,9 +369,12 @@ Zavedení univerzálního základního příjmu by mohlo mít komplexní a různ
 
 ---
 
+# Model: gpt-4o
 ## Task ID: 1
-**Model:** gpt-4o
-**LLM String:** client=<openai.resources.chat.completions.Completions object at 0x7f24d7b42e50> async_client=<openai.resources.chat.completions.AsyncCompletions object at 0x7f24d766df50> model_name='gpt-4o' temperature=0.0 openai_api_key=SecretStr('**********') openai_proxy=''
+**LLM String:**
+```
+client=<openai.resources.chat.completions.Completions object at 0x7f24d7b42e50> async_client=<openai.resources.chat.completions.AsyncCompletions object at 0x7f24d766df50> model_name='gpt-4o' temperature=0.0 openai_api_key=SecretStr('**********') openai_proxy=''
+```
 
 **Response:**
 Samozřejmě! Syntéza nové sloučeniny pro zlepšení absorpce sluneční energie je komplexní úkol, který vyžaduje interdisciplinární přístup zahrnující chemii, fyziku a materiálové vědy. Zde je obecný přehled metodiky, kterou byste mohli použít:
@@ -395,9 +437,12 @@ Tento proces je iterativní a vyžaduje mnoho cyklů optimalizace a testování,
 
 ---
 
+# Model: gpt-4o
 ## Task ID: 2
-**Model:** gpt-4o
-**LLM String:** client=<openai.resources.chat.completions.Completions object at 0x7f24d7b42e50> async_client=<openai.resources.chat.completions.AsyncCompletions object at 0x7f24d766df50> model_name='gpt-4o' temperature=0.0 openai_api_key=SecretStr('**********') openai_proxy=''
+**LLM String:**
+```
+client=<openai.resources.chat.completions.Completions object at 0x7f24d7b42e50> async_client=<openai.resources.chat.completions.AsyncCompletions object at 0x7f24d766df50> model_name='gpt-4o' temperature=0.0 openai_api_key=SecretStr('**********') openai_proxy=''
+```
 
 **Response:**
 **Želví Ninja v Praze: Dobrodružství na Karlově Mostě**
@@ -432,9 +477,12 @@ A to je konec pohádky o želvích ninjích v Praze. Dobrou noc, kluci!
 
 ---
 
+# Model: gpt-4-turbo
 ## Task ID: 0
-**Model:** gpt-4-turbo
-**LLM String:** client=<openai.resources.chat.completions.Completions object at 0x7f24d7512510> async_client=<openai.resources.chat.completions.AsyncCompletions object at 0x7f24d76f2010> model_name='gpt-4-turbo' temperature=0.0 openai_api_key=SecretStr('**********') openai_proxy=''
+**LLM String:**
+```
+client=<openai.resources.chat.completions.Completions object at 0x7f24d7512510> async_client=<openai.resources.chat.completions.AsyncCompletions object at 0x7f24d76f2010> model_name='gpt-4-turbo' temperature=0.0 openai_api_key=SecretStr('**********') openai_proxy=''
+```
 
 **Response:**
 Zavedení univerzálního základního příjmu (UZP) může mít různé dopady na ekonomickou disparitu mezi regiony s vysokými a nízkými příjmy. Zde jsou některé možné efekty:
@@ -457,9 +505,12 @@ Celkově by zavedení UZP mohlo mít potenciál zmírnit ekonomickou disparitu m
 
 ---
 
+# Model: gpt-4-turbo
 ## Task ID: 1
-**Model:** gpt-4-turbo
-**LLM String:** client=<openai.resources.chat.completions.Completions object at 0x7f24d7512510> async_client=<openai.resources.chat.completions.AsyncCompletions object at 0x7f24d76f2010> model_name='gpt-4-turbo' temperature=0.0 openai_api_key=SecretStr('**********') openai_proxy=''
+**LLM String:**
+```
+client=<openai.resources.chat.completions.Completions object at 0x7f24d7512510> async_client=<openai.resources.chat.completions.AsyncCompletions object at 0x7f24d76f2010> model_name='gpt-4-turbo' temperature=0.0 openai_api_key=SecretStr('**********') openai_proxy=''
+```
 
 **Response:**
 Pro návrh a syntézu nové sloučeniny, která by mohla efektivněji absorbovat sluneční energii než současné fotovoltaické materiály, je třeba zvážit několik klíčových aspektů. Zde je obecný přehled postupu, který by mohl vést k vývoji takové sloučeniny:
@@ -482,9 +533,12 @@ Tento proces vyžaduje multidisciplinární přístup, spojující chemii, fyzik
 
 ---
 
+# Model: gpt-4-turbo
 ## Task ID: 2
-**Model:** gpt-4-turbo
-**LLM String:** client=<openai.resources.chat.completions.Completions object at 0x7f24d7512510> async_client=<openai.resources.chat.completions.AsyncCompletions object at 0x7f24d76f2010> model_name='gpt-4-turbo' temperature=0.0 openai_api_key=SecretStr('**********') openai_proxy=''
+**LLM String:**
+```
+client=<openai.resources.chat.completions.Completions object at 0x7f24d7512510> async_client=<openai.resources.chat.completions.AsyncCompletions object at 0x7f24d76f2010> model_name='gpt-4-turbo' temperature=0.0 openai_api_key=SecretStr('**********') openai_proxy=''
+```
 
 **Response:**
 **Pohádka o želvích ninjách v Praze**
@@ -507,9 +561,12 @@ A žili spokojeně až na věky. Konec.
 
 ---
 
+# Model: gpt-3.5-turbo-0125
 ## Task ID: 0
-**Model:** gpt-3.5-turbo-0125
-**LLM String:** client=<openai.resources.chat.completions.Completions object at 0x7f24d752f590> async_client=<openai.resources.chat.completions.AsyncCompletions object at 0x7f24d753a910> model_name='gpt-3.5-turbo-0125' temperature=0.0 openai_api_key=SecretStr('**********') openai_proxy=''
+**LLM String:**
+```
+client=<openai.resources.chat.completions.Completions object at 0x7f24d752f590> async_client=<openai.resources.chat.completions.AsyncCompletions object at 0x7f24d753a910> model_name='gpt-3.5-turbo-0125' temperature=0.0 openai_api_key=SecretStr('**********') openai_proxy=''
+```
 
 **Response:**
 Zavedení univerzálního základního příjmu by mohlo mít různé dopady na ekonomickou disparitu v regionech s vysokými a nízkými příjmy. Zde je několik možných scénářů:
@@ -524,9 +581,12 @@ Celkově by zavedení univerzálního základního příjmu mohlo mít různé d
 
 ---
 
+# Model: gpt-3.5-turbo-0125
 ## Task ID: 1
-**Model:** gpt-3.5-turbo-0125
-**LLM String:** client=<openai.resources.chat.completions.Completions object at 0x7f24d752f590> async_client=<openai.resources.chat.completions.AsyncCompletions object at 0x7f24d753a910> model_name='gpt-3.5-turbo-0125' temperature=0.0 openai_api_key=SecretStr('**********') openai_proxy=''
+**LLM String:**
+```
+client=<openai.resources.chat.completions.Completions object at 0x7f24d752f590> async_client=<openai.resources.chat.completions.AsyncCompletions object at 0x7f24d753a910> model_name='gpt-3.5-turbo-0125' temperature=0.0 openai_api_key=SecretStr('**********') openai_proxy=''
+```
 
 **Response:**
 Samozřejmě! Jednou z metod syntézy nové sloučeniny s vysokou absorpcí sluneční energie může být využití materiálů nazývaných perovskity. Perovskity jsou krystalické struktury s unikátními vlastnostmi, které se ukázaly jako velmi slibné pro využití ve fotovoltaických aplikacích.
@@ -539,9 +599,12 @@ V každém případě by vývoj nové sloučeniny s vysokou absorpcí sluneční
 
 ---
 
+# Model: gpt-3.5-turbo-0125
 ## Task ID: 2
-**Model:** gpt-3.5-turbo-0125
-**LLM String:** client=<openai.resources.chat.completions.Completions object at 0x7f24d752f590> async_client=<openai.resources.chat.completions.AsyncCompletions object at 0x7f24d753a910> model_name='gpt-3.5-turbo-0125' temperature=0.0 openai_api_key=SecretStr('**********') openai_proxy=''
+**LLM String:**
+```
+client=<openai.resources.chat.completions.Completions object at 0x7f24d752f590> async_client=<openai.resources.chat.completions.AsyncCompletions object at 0x7f24d753a910> model_name='gpt-3.5-turbo-0125' temperature=0.0 openai_api_key=SecretStr('**********') openai_proxy=''
+```
 
 **Response:**
 Jednou za noci v Praze, když všechny děti už spaly, se něco neuvěřitelného stalo. Z kanálu Vltavy vylézly želví ninjové! Ano, byli to želví ninjové, kteří se rozhodli ochraňovat Prahu před zlem a pomáhat všem, kteří potřebovali pomoc.
