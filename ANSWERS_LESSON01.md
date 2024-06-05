@@ -2,7 +2,7 @@
 ## Task ID: 0
 **LLM String:**
 ```
-[1mOllama[0m
+Ollama
 Params: {'model': 'aya', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
 ```
 
@@ -27,7 +27,7 @@ Zavedení univerzálního základního příjmu (UBI) může mít na ekonomickou
 ## Task ID: 1
 **LLM String:**
 ```
-[1mOllama[0m
+Ollama
 Params: {'model': 'aya', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
 ```
 
@@ -54,7 +54,7 @@ Kombinací počítačového modelování, strojového učení a experimentální
 ## Task ID: 2
 **LLM String:**
 ```
-[1mOllama[0m
+Ollama
 Params: {'model': 'aya', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
 ```
 
@@ -83,7 +83,7 @@ Od té chvíle bratři pravidelně chránili město před různými hrozbami jak
 ## Task ID: 0
 **LLM String:**
 ```
-[1mOllama[0m
+Ollama
 Params: {'model': 'mistral', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
 ```
 
@@ -102,7 +102,7 @@ Ve skutečnosti ale lze očekávat, že univerzální základní příjem bude n
 ## Task ID: 1
 **LLM String:**
 ```
-[1mOllama[0m
+Ollama
 Params: {'model': 'mistral', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
 ```
 
@@ -122,7 +122,7 @@ Tyto metody jsou pouze některé z mnoha možných přístupů k syntéze novýc
 ## Task ID: 2
 **LLM String:**
 ```
-[1mOllama[0m
+Ollama
 Params: {'model': 'mistral', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
 ```
 
@@ -157,7 +157,7 @@ The end.
 ## Task ID: 0
 **LLM String:**
 ```
-[1mOllama[0m
+Ollama
 Params: {'model': 'llama3', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
 ```
 
@@ -185,7 +185,7 @@ Overall, while UBI has its potential benefits in reducing regional economic disp
 ## Task ID: 1
 **LLM String:**
 ```
-[1mOllama[0m
+Ollama
 Params: {'model': 'llama3', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
 ```
 
@@ -222,7 +222,7 @@ By combining AI-driven computational power with experimental validation and opti
 ## Task ID: 2
 **LLM String:**
 ```
-[1mOllama[0m
+Ollama
 Params: {'model': 'llama3', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
 ```
 
@@ -261,7 +261,7 @@ I hope your little nephews enjoy this adventure!
 ## Task ID: 0
 **LLM String:**
 ```
-[1mOllama[0m
+Ollama
 Params: {'model': 'phi3', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
 ```
 
@@ -293,7 +293,7 @@ Příkladová součástí analýzy a studie:
 ## Task ID: 1
 **LLM String:**
 ```
-[1mOllama[0m
+Ollama
 Params: {'model': 'phi3', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
 ```
 
@@ -308,7 +308,7 @@ Nyní je vhodné být s nás k uživacímu prozkoumat se obcházky nových slou�
 ## Task ID: 2
 **LLM String:**
 ```
-[1mOllama[0m
+Ollama
 Params: {'model': 'phi3', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': None, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None}
 ```
 
