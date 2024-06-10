@@ -3,10 +3,15 @@
 
 ## Jupyter Notebooks
 [lesson1.ipynb](https://github.com/alexb7373/ai_course/blob/master/lesson1.ipynb)
+
 [lesson2.ipynb](https://github.com/alexb7373/ai_course/blob/master/lesson2.ipynb)
 
 ## Results
-results are depicted in the [answers_lesson01.json](https://github.com/alexb7373/ai_course/blob/master/answers_lesson01.json) file, and in [ANSWERS_LESSON01.md](https://github.com/alexb7373/ai_course/blob/master/ANSWERS_LESSON01.md)
+results are depicted in the 
+
+[answers_lesson01.json](https://github.com/alexb7373/ai_course/blob/master/answers_lesson01.json) file, and in [ANSWERS_LESSON01.md](https://github.com/alexb7373/ai_course/blob/master/ANSWERS_LESSON01.md)
+
+[answers_lesson02.json](https://github.com/alexb7373/ai_course/blob/master/answers_lesson02.json) file, and in [ANSWERS_LESSON02.md](https://github.com/alexb7373/ai_course/blob/master/ANSWERS_LESSON02.md)
 
 Worth noting:
 * 'aya' is a surprisingly mature model - producing good results
