@@ -10,5 +10,6 @@ results are depicted in the [answers_lesson01.json](https://github.com/alexb7373
 
 Worth noting:
 * 'aya' is a surprisingly mature model - producing good results
-* 'gpt-4o' is 'the king' anyway IMHO
-* 'mistral' created the story for children in English, instead of Czech
+* 'gpt-4o' is 'the king' anyway IMHO, evolution is seen over 'gpt-4' and 'gpt-3.5'. Output is pleasantly produced with markdown syntax.
+* 'mistral','phi3' created the story for children - in English, instead of Czech
+* 'llama3' - responded in English only (did understand the prompt in Czech though)
