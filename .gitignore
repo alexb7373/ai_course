@@ -1,2 +1,2 @@
-.ipynb_checkpoints/
-chroma_db/
+.ipynb_checkpoints/*
+chroma_db/*
