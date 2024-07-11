@@ -1,5 +1,8 @@
 ### Preamble
-I've been doing some additional research - to answer the task of Lesson 10. And I came across an LLM Agent architectured that stunned me. Actually I was looking to 'invent' exactly this architecture.
+I've been doing some additional research - to answer the task of Lesson 10. And I came across an LLM Agent architectured that stunned me. Actually I was looking to 'invent' exactly this architecture.  
+Essentially this approach is both simple an universal. Husky can be treated as a "Smart Router" Action Generator and the 4 Agents' Expert Models: `[code]`, `[math]`, `[search]` and `[commonsense]`
+Thus it makes the architecture work a bit like human brain - with right and left hemispheres being responsible for exact (`[math]`, `[search]`) and creative (`[commonsense]`, `[code]`).
+This architecture can be given more models, for other "modes of thinking" and/or "memories". 
 
 ## HUSKY
 A work was published at [https://arxiv.org/pdf/2406.06469](https://arxiv.org/pdf/2406.06469)
